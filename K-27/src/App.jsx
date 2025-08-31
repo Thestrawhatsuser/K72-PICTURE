@@ -3,6 +3,7 @@ import Home from './pages/home'
 import Agence from './pages/agence'
 import Projects from './pages/projects'
 import { Route , Routes } from 'react-router-dom'
+import './index.css'
 
 const App = () => {
   return (
