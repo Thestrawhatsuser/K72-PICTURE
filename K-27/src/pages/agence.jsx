@@ -2,8 +2,9 @@ import React from 'react'
 
 const home = () => {
   return (
-    <div>
-      Agence
+    <div className='font-[font-2]'>
+     SEVEN7Y <br />
+TWO
     </div>
   )
 }
